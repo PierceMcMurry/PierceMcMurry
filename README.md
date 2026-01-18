@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @PMan1212
-- 👀 I’m interested in coding, mechanical design, robotics, and more.
-- 🌱 I’m code in Python, C++, and Arduino. I've dabbled in Java in the past, but not extensively.
-- 💞️ I don't have any collaborations at the moment, but I'm open to them.
 - 📫 How to reach me: 
 -     Email: mcmurry.pierce@gmail.com
 
